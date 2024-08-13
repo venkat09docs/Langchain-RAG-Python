@@ -1,0 +1,11 @@
+langchain
+ipykernel
+langchain_community
+pypdf
+bs4
+wikipedia
+langchain-text-splitters
+lxml
+langchain-openai
+python-dotenv
+langchain-chroma>=0.1.2
